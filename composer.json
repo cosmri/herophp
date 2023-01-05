@@ -1,0 +1,14 @@
+{
+    "name": "vendor_mari/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Mari Kyle",
+        "email": "21001096@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
